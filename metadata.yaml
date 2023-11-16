@@ -10,12 +10,17 @@ contributor:
     deathdate: 1929
     gutenberg_agent_id: '9723'
     url: http://www.gutenberg.org/2009/agents/9723
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lyster, Annette
     gutenberg_agent_id: '56259'
     url: http://www.gutenberg.org/2009/agents/56259
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72020#Janet-s-boys
 gutenberg_issued: '2023-11-04'
 identifiers:
   gutenberg: '72020'
